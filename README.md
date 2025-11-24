@@ -1,6 +1,6 @@
 # 👋 TIM HERE
 
-🔧 Backend & Embedded Engineer | 🚀 System Optimizer | 🌏 Hong Kong Career Explorer  
+🔧 Backend & Embedded Engineer | 🚀 System Optimizer | 🌏 Hong Kong based 
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, SQL, JavaScript/HTML/CSS etc.
+**Languages:** Java, Python, SQL, JavaScript/HTML/CSS etc.  
 **Frameworks:** Spring Boot, Maven  
 **Tools:** Docker, IntelliJ IDEA, GitHub Actions  
 **Embedded:** MCU workflows, RTOS, IoT protocols  

@@ -42,8 +42,8 @@
 -->
 
 ## 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yizhou-xu-197651336/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/yizhou-xu-197651336/)
 - 📧 Email: 22414347@life.hkbu.edu.hk
 
 ---
-✨ *Always learning, always optimizing — bridging backend robustness with embedded innovation and AI exploration.*
+✨ *Always learning, always optimizing — bridging backend robustness and AI exploration.*

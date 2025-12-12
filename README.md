@@ -42,7 +42,7 @@
 -->
 
 ## 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yizhou-xu-197651336/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tim-ga%C3%ABtan-197651336/)
 - 📧 Email: 22414347@life.hkbu.edu.hk
 
 ---
